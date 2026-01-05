@@ -1,9 +1,9 @@
-## Coffee Quality Analysis using Power BI
-# Project Overview:
+# Coffee Quality Analysis using Power BI
+## Project Overview:
 
 This project analyzes coffee quality data to identify key factors influencing overall coffee scores. Using Power BI, the dashboard explores relationships between sensory attributes, defects, processing methods, and regions to deliver actionable insights into coffee grading and quality evaluation.
 
-# Objectives:
+## Objectives:
 
 - Analyze how sensory attributes impact overall coffee quality
 
@@ -15,13 +15,13 @@ This project analyzes coffee quality data to identify key factors influencing ov
 
 - Use correlation analysis to support data-driven conclusions
 
-# Tools & Technologies:
+## Tools & Technologies:
 
 - Power BI
 - Star Schema Data Model
 
 
-# Key Analysis & Insights:
+## Key Analysis & Insights:
 
 - Aroma shows a strong positive correlation with overall coffee quality scores
 
@@ -32,7 +32,7 @@ This project analyzes coffee quality data to identify key factors influencing ov
 - Certain regions demonstrate higher average quality, highlighting origin influence
 
 
-# Dashboard Highlights:
+## Dashboard Highlights:
 
 - KPI cards for average defects and correlation coefficients
 
@@ -44,7 +44,7 @@ This project analyzes coffee quality data to identify key factors influencing ov
 
 - Interactive slicers for date and region-based filtering
 
-# Key Learnings:
+## Key Learnings:
 
 Designed an optimized star schema for analytical performance
 
@@ -54,17 +54,17 @@ Learned how filter context affects statistical interpretation
 
 Enhanced dashboard usability with clean UI and consistent formatting
 
-# Challenges Faced:
+## Challenges Faced:
 
 Transforming data in clean, consistent format.
 
 Ensuring accurate relationships between fact and dimension tables.
 
 
-# Outcome:
+## Outcome:
 
 A professional, interactive Power BI dashboard that clearly explains how sensory attributes, defects, and processing methods influence coffee quality—ready for business use and interview presentation.
 
-# Conclusion:
+## Conclusion:
 
 This project demonstrates strong skills in data modeling, DAX, statistical thinking, and dashboard storytelling. The insights generated can help coffee producers, graders, and analysts better understand and improve coffee quality outcomes.
